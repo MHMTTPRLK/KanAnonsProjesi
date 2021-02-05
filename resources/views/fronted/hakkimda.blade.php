@@ -1,0 +1,11 @@
+@extends('fronted.layouts.master')
+@section('title','Hakkımızda')
+@section('content')
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+@include('fronted.layouts.hakkimda')
+@endsection

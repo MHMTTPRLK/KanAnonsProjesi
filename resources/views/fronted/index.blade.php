@@ -1,0 +1,9 @@
+@extends('fronted.layouts.master')
+@section('title','Anasayfa')
+@section('content')
+@include('fronted.layouts.banner')
+@include('fronted.layouts.anonslar')
+@include('fronted.layouts.hakkımızda')
+@include('fronted.layouts.yorum')
+@include('fronted.layouts.bagisvideo')
+@endsection
